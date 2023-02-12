@@ -1,3 +1,5 @@
 # Game
-DOMAIN-KEYWORD,forzamotorsport.net
-DOMAIN-KEYWORD,playfabapi.com
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,playfabapi.com
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,hitman.io
