@@ -1,6 +1,5 @@
 # Google China
 DOMAIN-SUFFIX,translate.googleapis.com
-DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,c.android.clients.google.com
@@ -30,5 +29,7 @@ DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,l.google.com
 DOMAIN-SUFFIX,ns1.google.com
+DOMAIN-SUFFIX,ns2.google.com
+DOMAIN-SUFFIX,ns3.google.com
+DOMAIN-SUFFIX,ns4.google.com
 DOMAIN-SUFFIX,dns-admin.google.com
-DOMAIN-SUFFIX,ipv6.google.com
